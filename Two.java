@@ -1,1 +1,3 @@
 Some java class
+
+Changed in local repo...
